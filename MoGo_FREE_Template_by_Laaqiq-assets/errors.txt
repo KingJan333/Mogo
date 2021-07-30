@@ -1,3 +1,0 @@
-[Wed Sep 25 2019 21:11:12 GMT+0300 (RTZ 2 (зима))]
-COMPUTER / OK.jpg: File name contains invalid character "/"
-
